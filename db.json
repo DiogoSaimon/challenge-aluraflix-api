@@ -1,0 +1,52 @@
+{
+    "videos": [
+        {
+            "id": 1,
+            "titulo": "Civil War",
+            "capa": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fIEjqQnnkxwUH102XU9R3QwRGEu.jpg",
+            "link": "https://www.youtube.com/embed/WEmIRA4JQfo"
+        },
+        {
+            "id": 2,
+            "titulo": "Capitão América: Guerra Civil",
+            "capa": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3bN7YZnf0mWpYwcektizfNlrCwC.jpg",
+            "link": "https://www.youtube.com/embed/FRLYZn5PGuA"
+        },
+        {
+            "id": 3,
+            "titulo": "Divertida Mente 2",
+            "capa": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9h2KgGXSmWigNTn3kQdEFFngj9i.jpg",
+            "link": "https://www.youtube.com/embed/_OIQFxh8pGc"
+        },
+        {
+            "id": 4,
+            "titulo": "Meu Malvado Favorito 4",
+            "capa": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/65QQjZNrVfTiuGp3chxx8dkfHDG.jpg",
+            "link": "https://www.youtube.com/embed/XEG0tWu9yKw"
+        },
+        {
+            "id": 5,
+            "titulo": "Furiosa: Uma Saga Mad Max",
+            "capa": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7qOSKoOAPgemYhBwbJgBWcCxPWZ.jpg",
+            "link": "https://www.youtube.com/embed/HQOQTNVdxb8"
+        },
+        {
+            "id": 6,
+            "titulo": "Planeta dos Macacos: O Reinado",
+            "capa": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dzDK2TMXsxrolGVdZwNGcOlZqrF.jpg",
+            "link": "https://www.youtube.com/embed/FcZ-4Gnr9Ok"
+        },
+        {
+            "id": 7,
+            "titulo": "Fúria Primitiva",
+            "capa": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ziXIsqVTBrKajZpVEGKiSvot3gu.jpg",
+            "link": "https://www.youtube.com/embed/aqa3YTtwvaU"
+        },
+        {
+            "id": 8,
+            "titulo": "Um Lugar Silencioso: Dia Um",
+            "capa": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gyEnhITeHLky85XJxuTPqniPrzE.jpg",
+            "link": "https://www.youtube.com/embed/ENocUCWoGHA"
+        }
+    ]
+}
